@@ -19,8 +19,6 @@ Este projeto foi desenvolvido com o objetivo de recriar o website oficial do [Ch
 ## 📂 Estrutura do repositório
 
 chapito-wordpress/
-├── backup/ # (Opcional) Backup .wpress completo
-│ └── chapito.wpress
 └── README.md
 
 ---
